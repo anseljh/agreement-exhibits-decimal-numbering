@@ -1,0 +1,22 @@
+{
+  "name": "agreement-exhibits-decimal-numbering",
+  "version": "0.0.0",
+  "description": "decimal numbering for agreements with exhibits",
+  "main": "index.js",
+  "scripts": {
+    "test": "defence README.md | replace-require-self | node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anseljh/agreement-exhibits-decimal-numbering.git"
+  },
+  "keywords": [
+    "numbering"
+  ],
+  "author": "Ansel Halliburton",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/anseljh/agreement-exhibits-decimal-numbering/issues"
+  },
+  "homepage": "https://github.com/anseljh/agreement-exhibits-decimal-numbering#readme"
+}
