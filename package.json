@@ -8,12 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anseljh/agreement-exhibits-decimal-numbering.git"
+    "url": "https://github.com/anseljh/agreement-exhibits-decimal-numbering.git"
   },
   "keywords": [
     "numbering"
   ],
   "author": "Ansel Halliburton",
+  "dependencies": {
+    "make-master-attachments-numbering": "anseljh/make-master-attachments-numbering"
+  },
+  "devDependencies": {
+    "defence-cli": "~1.0.1",
+    "replace-require-self": "~1.0.0"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/anseljh/agreement-exhibits-decimal-numbering/issues"
